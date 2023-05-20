@@ -1,0 +1,5 @@
+/*align icon to left*/
+
+#what  .items .item {
+    align-self: left;
+}
